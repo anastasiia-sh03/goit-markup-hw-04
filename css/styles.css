@@ -467,7 +467,7 @@ background-color: #404bbf;
 .footer-social-a:hover {
     background-color: #31d0aa;
 }
-..footer-social-a:focus {
+.footer-social-a:focus {
     background-color: #31d0aa;
 }
 .footer-social-svg {
